@@ -3,6 +3,6 @@
   <title>PHP Test</title>
  </head>
  <body>
- <?php echo '<p>Reptitive</p>'; ?> 
+ <?php echo '<p>Hello Users</p>'; ?> 
  </body>
 </html>
